@@ -6,18 +6,17 @@ Main Homepage of the website is index.html and styling for the this html is done
 
 
 
-Usage Tree
 
-index.html
-stylesheet_main.css
-primary page responsive.css
-Single Playlist Screen Styles.css
-Single Playlist Screen Styles.css
-Secondary page responsive.css
-media
+# Tree Diagram
+1. index.html
+    1. stylesheet_main.css
+    2. primary page responsive.css
+2. Single Playlist Screen Styles.css
+    1. Single Playlist Screen Styles.css
+    2. Secondary page responsive.css
+3. media
 
-
-The hierarchy shown above is not the folder structure. The sub-Files are used by the parent file.
-index.html uses stylesheet_main.css for all the basic styling and primary page responsive.css for all the meida queries related to responsiveness.
-Similarly Single Playlist Screen.html uses Single Playlist Screen Styles.css for all the basic styling and Secondary page responsive.css for all the meida queries related to responsiveness.
+The hierarchy shown above is not the folder structure. The sub-Files are used by the parent file.<br>
+`index.html` uses `stylesheet_main.css` for all the basic styling and `primary page responsive.css` for all the meida queries related to responsiveness.<br>
+Similarly `Single Playlist Screen.html` uses `Single Playlist Screen Styles.css` for all the basic styling and `Secondary page responsive.css` for all the meida queries related to responsiveness.
 
